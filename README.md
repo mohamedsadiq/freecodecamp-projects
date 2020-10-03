@@ -15,4 +15,5 @@ Telephone Number Validator - [View Code](https://github.com/mohamedsadiq/freecod
 
 Cash Register - [View Code](https://github.com/mohamedsadiq/freecodecamp-projects/blob/main/Javascript-Algorithms-And-Data-Structures-Projects/Cash%20Register%20.js)
 
-![One Yellow UI](https://i.ibb.co/ccMbQxs/Captsxdsxsure.png)
+## Certification
+(https://i.ibb.co/ccMbQxs/Captsxdsxsure.png)
