@@ -18,3 +18,23 @@ Cash Register - [View Code](https://github.com/mohamedsadiq/freecodecamp-project
 
 ## Certification
 ![Certification](https://i.ibb.co/ccMbQxs/Captsxdsxsure.png)
+
+
+# Front End Libraries Projects 
+##
+
+Build a Random Quote Machine - [View Code](https://codepen.io/M_Bronz/pen/BaKgpXW)
+
+Build a Markdown Previewer - [View Code](https://codepen.io/M_Bronz/pen/eYZwabd) 
+  
+Build a Drum Machine - View Code [View Code](https://codepen.io/M_Bronz/pen/NWrWvJj)
+  
+Build a JavaScript Calculator - [View Code](https://codepen.io/M_Bronz/pen/LYZEqNv)
+
+Build a 25 + 5 Clock - [View Code](https://codepen.io/M_Bronz/pen/BazNjxB)
+
+
+
+
+## Certification
+![Certification](https://i.ibb.co/NFHg7Zh/Captdsdsure.png)
