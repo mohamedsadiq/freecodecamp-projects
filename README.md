@@ -3,7 +3,7 @@
 Projects that I have completed while going through the FreeCodeCamp Curriculum
 
 # Javascript Algorithms and Data Structures Projects
-##
+
 
 
 Palindrome Checker - [View Code](https://github.com/mohamedsadiq/freecodecamp-projects/blob/main/Javascript-Algorithms-And-Data-Structures-Projects/Palindrome%20Checker%20.js)
@@ -21,7 +21,7 @@ Cash Register - [View Code](https://github.com/mohamedsadiq/freecodecamp-project
 
 
 # Front End Libraries Projects 
-##
+
 
 Build a Random Quote Machine - [View Code](https://codepen.io/M_Bronz/pen/BaKgpXW)
 
