@@ -10,7 +10,7 @@ Palindrome Checker - [View Code](https://github.com/mohamedsadiq/freecodecamp-pr
 
 Roman Numeral Converter - [View Code](https://github.com/mohamedsadiq/freecodecamp-projects/blob/main/Javascript-Algorithms-And-Data-Structures-Projects/Roman%20Numeral%20Converter.js) 
   
-Caesars Cipher - View Code [View Code](https://github.com/mohamedsadiq/freecodecamp-projects/blob/main/Javascript-Algorithms-And-Data-Structures-Projects/Caesars%20Cipher.js)
+Caesars Cipher -  [View Code](https://github.com/mohamedsadiq/freecodecamp-projects/blob/main/Javascript-Algorithms-And-Data-Structures-Projects/Caesars%20Cipher.js)
   
 Telephone Number Validator - [View Code](https://github.com/mohamedsadiq/freecodecamp-projects/blob/main/Javascript-Algorithms-And-Data-Structures-Projects/elephone%20Number%20Validator.js)
 
@@ -27,7 +27,7 @@ Build a Random Quote Machine - [View Code](https://codepen.io/M_Bronz/pen/BaKgpX
 
 Build a Markdown Previewer - [View Code](https://codepen.io/M_Bronz/pen/eYZwabd) 
   
-Build a Drum Machine - View Code [View Code](https://codepen.io/M_Bronz/pen/NWrWvJj)
+Build a Drum Machine -  [View Code](https://codepen.io/M_Bronz/pen/NWrWvJj)
   
 Build a JavaScript Calculator - [View Code](https://codepen.io/M_Bronz/pen/LYZEqNv)
 
